@@ -1,10 +1,8 @@
 ### Hi there, Assala Mu Alaikum, I'm Raisul 👋
 
 ## Profile
-- 🔭 I’m currently working on  IQVIA as  Site Reliability Engineer!
-- 🌱 I’m currently learning GO
-- 🥅 2025 Goals: Concentrate on DevOps and Problem Solving
-- ⚡ Fun fact: I love to  play Football
+- 🔭 I’m currently working on IQVIA as  LEAD Site Reliability Engineer!
+
 
 ### Connect with me:
 
